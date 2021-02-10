@@ -1,3 +1,7 @@
+# The scene builder
+
+With thi sapp  you can search for a scene and assign players to play the scene so that could practice their english. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
